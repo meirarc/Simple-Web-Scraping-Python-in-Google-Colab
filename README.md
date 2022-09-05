@@ -1,1 +1,1 @@
-# Simple-Web-Scraping-Python-in-Google-Colab
+# Simple Web Scraping Python in Google Colab
